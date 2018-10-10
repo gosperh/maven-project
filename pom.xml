@@ -20,7 +20,7 @@
         <derby.version>10.14.2.0</derby.version>
         <mq.version>5.15.6</mq.version>
         
-        <deploy.username>userName</deploy.username>
+        <deploy.username>gosperh2</deploy.username>
         <deploy.password></deploy.password>
     </properties>
 
